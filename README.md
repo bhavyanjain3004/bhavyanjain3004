@@ -7,7 +7,7 @@ learning
 
 * 🌍  I'm based in Udaipur , rajasthan , India
 * ✉️  You can contact me at [bhavyajain3004@gmail.com](mailto:bhavyajain3004@gmail.com)
-* ![Bhavya's github stats](https://github-readme-stats.vercel.app/api?username=bhavyanjain3004)
+* [![GitHub Streak](https://streak-stats.demolab.com?user=bhavyanjain3004&theme=tokyonight&date_format=%5BY%20%5DM%20j&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 
 <!--
 **bhavyanjain3004/bhavyanjain3004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
