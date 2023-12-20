@@ -7,6 +7,7 @@ learning
 
 * 🌍  I'm based in Udaipur , rajasthan , India
 * ✉️  You can contact me at [bhavyajain3004@gmail.com](mailto:bhavyajain3004@gmail.com)
+* ![Bhavya's github stats](https://github-readme-stats.vercel.app/api?username=bhavyanjain3004)
 
 <!--
 **bhavyanjain3004/bhavyanjain3004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
