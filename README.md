@@ -1,4 +1,12 @@
 ### Hi there 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bhavya N Jain
+=====================================================================================================================================
+
+learning
+--------
+
+* 🌍  I'm based in Udaipur , rajasthan , India
+* ✉️  You can contact me at [bhavyajain3004@gmail.com](mailto:bhavyajain3004@gmail.com)
 
 <!--
 **bhavyanjain3004/bhavyanjain3004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
