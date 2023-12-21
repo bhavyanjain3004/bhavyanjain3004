@@ -8,15 +8,15 @@ learning
 * 🌍  I'm based in Udaipur , rajasthan , India
 * ✉️  You can contact me at [bhavyajain3004@gmail.com](mailto:bhavyajain3004@gmail.com)
 * # 📊 GitHub Stats:
-* <p align="center">
- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhavyanjain3004&count_private=true&show_icons=true&theme=dark" />
- 
-  <img height="183" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyanjain3004&langs_count=10&layout=compact&theme=dark" />
+* <p> align="centre"
+![](https://github-readme-stats.vercel.app/api?username=bhavyanjain3004&theme=calm&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bhavyanjain3004&theme=calm&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyanjain3004&theme=calm&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-  </p>
+---
+[![](https://visitcount.itsvg.in/api?id=bhavyanjain3004&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+</p>
 <!--
 **bhavyanjain3004/bhavyanjain3004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
