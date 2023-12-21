@@ -8,10 +8,10 @@ learning
 * 🌍  I'm based in Udaipur , rajasthan , India
 * ✉️  You can contact me at [bhavyajain3004@gmail.com](mailto:bhavyajain3004@gmail.com)
 * # 📊 GitHub Stats:
-*  * <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bhavyanjain3004&theme=dar"/></a>
+*  <p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bhavyanjain3004&theme=nordfox"/></a>
 </p>
-<p>
+<p align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhavyanjain3004&count_private=true&show_icons=true&theme=dark" />
 
 <img height="183" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyanjain3004&langs_count=10&layout=compact&theme=dark" />
