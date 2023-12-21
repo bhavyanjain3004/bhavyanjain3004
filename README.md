@@ -10,12 +10,9 @@ learning
 * # 📊 GitHub Stats:
 * <p> 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhavyanjain3004&count_private=true&show_icons=true&theme=dark" />
- 
-  <img height="183" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyanjain3004&langs_count=10&layout=compact&theme=dark" />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyanjain3004&theme=calm&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=bhavyanjain3004&theme=calm&hide_border=true)<br/>
+ <img height="183" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyanjain3004&langs_count=10&layout=compact&theme=dark" />
 
----
-[![](https://visitcount.itsvg.in/api?id=bhavyanjain3004&icon=5&color=0)](https://visitcount.itsvg.in)
 
 </p>
 <!--
