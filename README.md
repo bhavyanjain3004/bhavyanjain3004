@@ -9,7 +9,7 @@ learning
 * ✉️  You can contact me at [bhavyajain3004@gmail.com](mailto:bhavyajain3004@gmail.com)
 * # 📊 GitHub Stats:
 *  * <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bhavyanjain3004"/></a>
 </p>
 <p>
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhavyanjain3004&count_private=true&show_icons=true&theme=dark" />
