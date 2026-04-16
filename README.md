@@ -5,7 +5,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 learning
 --------
 
-* 🌍  I'm based in Udaipur , rajasthan , India
 * ✉️  You can contact me at [bhavyajain3004@gmail.com](mailto:bhavyajain3004@gmail.com)
 * # 📊 GitHub Stats:
 <p align="center">
