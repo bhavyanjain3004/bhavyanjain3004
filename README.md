@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <!-- Update the link below to your live portfolio once deployed! -->
-  <a href="#">
+  <a href="https://bhavyanjain3004.github.io/protfolio.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-0a0e5c?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
